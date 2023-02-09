@@ -1,0 +1,36 @@
+/* .App{
+    border:5px solid lightblue;
+} */
+.Counter{
+    border:5px solid lightblue;
+    margin: 5px;
+}
+#comp{
+    padding: 10px;
+}
+
+.Todo{
+    border:5px solid rgb(26, 193, 88);
+    margin: 5px;
+    padding: 10px;
+}
+#navbar ul li{
+    margin: 5px;
+    font-size: 20px;
+}
+#li{
+    margin: 10px;
+    height: 30px;
+    /* vertical-align: middle; */
+    display: flex;
+    justify-content: space-between;
+  }
+  #airline_heading{
+    border: 1px solid;
+    background-color: bisque;
+    color:blue;
+    font-size: 50px;
+    padding: 5px;
+    position: sticky;
+  }
+  
